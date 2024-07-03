@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft-mod-demo:block/posky_block"
+    }
+  }
+}

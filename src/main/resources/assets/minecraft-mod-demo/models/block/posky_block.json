@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "minecraft-mod-demo:block/posky_block"
+  }
+}
